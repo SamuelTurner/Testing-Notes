@@ -29,3 +29,7 @@ James Bach:
 > Any threat to the value of the product to any stakeholder who matters.
 
 Anything that reduces the quality of the product is a bug, but quality is subjective meaning that bugs are too. Bugs have been known to be left in software as they sometimes add quality, especially in computer games where they can sometimes add entertainment value.
+
+## Implementation Level & System Level Testing
+
+Most types of testing fit into one of two categories, Implementation Level and System Level Testing. Implementation level testing tests whether the program works as the program intended, and System Level Testing tests whether the program meets the needs of the stakeholder.
