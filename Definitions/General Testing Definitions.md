@@ -4,11 +4,15 @@ There are no totally correct definitions of words in any language, as they're re
 
 ## Software Testing
 
-Software Testing is an investigation into the quality/status of a software product. The aim is to provide information about the product to an interested party (e.g: stakeholders). Usually the investigation takes the form of a series of experiments.
+Software Testing is an investigation into the quality/status of a software product. The aim is to provide information about the product to an interested party (e.g: stakeholders). Usually the investigation takes the form of a series of experiments, designed to answer a question.
 
 James Bach:
 
 > Testing is questioning a product in order to evaluate it.
+
+Cem Kaner:
+
+> Testing is an empirical, technical investigation conducted to provide stakeholders with information about the quality of the product or service under test.
 
 ## Computer Program/Software
 
