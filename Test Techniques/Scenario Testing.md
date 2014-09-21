@@ -1,0 +1,3 @@
+# Scenario Testing
+
+Scenario testing involves running tests that replicate how the program will be used by users. The tests are designed to be realistic, in order to convey the gravity and impact of a bug to people outside of the development team. Stakeholders find the results of these tests particularly useful, as they decribe the behaviour of their users when interacting with the product. This means that failures are often more likely to get fixed.
