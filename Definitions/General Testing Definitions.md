@@ -45,3 +45,9 @@ Most types of testing fit into one of two categories, Implementation Level and S
 ## Stakeholders
 
 A stakeholder is simply any person who has an interest in something. In software development, a stakeholder generally makes or influences high-level decisions about the the project, for example if a project has run over budget and is failing, the stakeholder(s) would have to decide whether to terminate the project or increase the budget. It is the stakeholder(s) that stand to gain or lose the most based upon a project's success or failure.
+
+## Mission statement
+
+Cem Kaner:
+
+> On every project it is useful for the test team to explicitly define it's mission. A mission statement is a brief, focussed description of a group's or project's core objectives.
