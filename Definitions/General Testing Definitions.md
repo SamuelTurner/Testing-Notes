@@ -41,3 +41,7 @@ Anything that reduces the quality of the product is a bug, but quality is subjec
 ## Implementation Level & System Level Testing
 
 Most types of testing fit into one of two categories, Implementation Level and System Level Testing. Implementation level testing tests whether the program works as the program intended, and System Level Testing tests whether the program meets the needs of the stakeholder.
+
+## Stakeholders
+
+A stakeholder is simply any person who has an interest in something. In software development, a stakeholder generally makes or influences high-level decisions about the the project, for example if a project has run over budget and is failing, the stakeholder(s) would have to decide whether to terminate the project or increase the budget. It is the stakeholder(s) that stand to gain or lose the most based upon a project's success or failure.
