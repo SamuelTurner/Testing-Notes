@@ -21,3 +21,8 @@ This is my list sources of information, I've not fully explored all of these sou
 * Stephen Blower - [@badbud65](https://twitter.com/badbud65) - [Blog](http://www.stephenblower.co.uk/)
 * SoftwareTestingClub - [@testingclub](https://twitter.com/testingclub) - [Website](http://www.softwaretestingclub.com/)
 * Ministry of Testing - [Website](http://www.ministryoftesting.com/)
+* 5 Blogs - [Blog](http://5blogs.wordpress.com/)
+
+## Video Talks/Webinars
+* [Things Could Get Worse: Ideas About Regression Testing with Michael Bolton] (https://www.youtube.com/watch?v=VNfPwD9u9Bk)
+* [99 Things You Can Do To Become A Better Tester](http://www.ministryoftesting.com/wp-content/uploads/2013/07/99ThingsEbook.pdf)
