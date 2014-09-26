@@ -12,6 +12,8 @@ This is my list sources of information, I've not fully explored all of these sou
 * The Heuristic Test Strategy Model - James Bach
 * Managing the proportions of testers to (other) developers - Cem Kaner, Elisabeth Hendrickson & Jennifer Smith-Brock
 * How do I create value with my testing? - Jonathon Kohl
+* [On testing nontestable programs](http://www.testingeducation.org/BBST/foundations/Weyuker_ontestingnontestable.pdf) - Elaine Weyuker
+
 
 ## Testers/Groups Worth Following
 

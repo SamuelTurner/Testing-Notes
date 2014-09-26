@@ -22,6 +22,12 @@ A program exists to serve a purpose, whether you think of it as solving a proble
 
 A program is really a communication between people, containing insctructions that can be executed by a computer but usually organised, commented or documented to aid readability.
 
+## "Thing" Under Test
+It can sometimes be benificial to be clear on the subject of your testing effort. Here are a few commonly used acronyms:
+* SUT - Software/System Under Test
+* AUT - Application Under Test
+* PUT - Program Under Test
+
 ## Quality
 
 Jerry Weinberg:
@@ -51,3 +57,7 @@ A stakeholder is simply any person who has an interest in something. In software
 Cem Kaner:
 
 > On every project it is useful for the test team to explicitly define it's mission. A mission statement is a brief, focussed description of a group's or project's core objectives.
+
+## Heuristics
+
+A heuristic is an experience based method of learning. Heuristics do not provide justifiable, quantifiable information as they are fallable. While they cannot provide concrete "answers", they can provide useful information that can be used to uncover validified information about the subject. They are guidelines, not rules.
