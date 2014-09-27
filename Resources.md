@@ -14,6 +14,7 @@ This is my list sources of information, I've not fully explored all of these sou
 * How do I create value with my testing? - Jonathon Kohl
 * [On testing nontestable programs](http://www.testingeducation.org/BBST/foundations/Weyuker_ontestingnontestable.pdf) - Elaine Weyuker
 * [Why didn't you find that bug?](http://www.ministryoftesting.com/2014/07/didnt-find-bug/) - Stephen Blower
+* [The Blazingly Simple Guide To Web Testing](http://thesocialtester.co.uk/wp-content/uploads/2013/12/The-Blazingly-Simple-Guide-To-Web-Testing.pdf)
 
 
 ## Testers/Groups Worth Following
