@@ -13,6 +13,7 @@ This is my list sources of information, I've not fully explored all of these sou
 * Managing the proportions of testers to (other) developers - Cem Kaner, Elisabeth Hendrickson & Jennifer Smith-Brock
 * How do I create value with my testing? - Jonathon Kohl
 * [On testing nontestable programs](http://www.testingeducation.org/BBST/foundations/Weyuker_ontestingnontestable.pdf) - Elaine Weyuker
+* [Why didn't you find that bug?](http://www.ministryoftesting.com/2014/07/didnt-find-bug/) - Stephen Blower
 
 
 ## Testers/Groups Worth Following
