@@ -16,6 +16,7 @@ This is my list sources of information, I've not fully explored all of these sou
 * [Why didn't you find that bug?](http://www.ministryoftesting.com/2014/07/didnt-find-bug/) - Stephen Blower
 * [The Blazingly Simple Guide To Web Testing](http://thesocialtester.co.uk/wp-content/uploads/2013/12/The-Blazingly-Simple-Guide-To-Web-Testing.pdf)
 * [Using Heuristic Test Oracles By Michael Kelly](http://www.testingeducation.org/BBST/foundations/Kelly_UsingTestOracles.pdf)
+* [Lessons Learned in Software Testing: A Context-Driven Approach](http://books.google.co.uk/books?id=n88imf9m25kC)[Cem Kaner, James Bach, Bret Pettichord]
 
 ## Testers/Groups Worth Following
 
