@@ -31,3 +31,4 @@ This is my list sources of information, I've not fully explored all of these sou
 * [Things Could Get Worse: Ideas About Regression Testing with Michael Bolton] (https://www.youtube.com/watch?v=VNfPwD9u9Bk)
 * [99 Things You Can Do To Become A Better Tester](http://www.ministryoftesting.com/wp-content/uploads/2013/07/99ThingsEbook.pdf)
 * [Sarcastic video on How To Learn Selenium](http://www.youtube.com/watch?v=cAgeeDpisbU)
+* [Becoming a Software Testing Expert - James Bach](https://www.youtube.com/watch?v=3FTwaojNkXw)
