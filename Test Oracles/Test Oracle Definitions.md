@@ -1,5 +1,8 @@
 # Test Oracle Definitions
 
+## Oracle
+An oracle in software testing is a mechanism of determining whether a test passed or failed.
+
 ## Reference Program
 When comparing the behaviour of the program under test to a second similar program, the second program is the reference program, or reference oracle.
 
