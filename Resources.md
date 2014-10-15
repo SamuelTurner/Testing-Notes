@@ -13,10 +13,17 @@ This is my list sources of information, I've not fully explored all of these sou
 * Managing the proportions of testers to (other) developers - Cem Kaner, Elisabeth Hendrickson & Jennifer Smith-Brock
 * How do I create value with my testing? - Jonathon Kohl
 * [On testing nontestable programs](http://www.testingeducation.org/BBST/foundations/Weyuker_ontestingnontestable.pdf) - Elaine Weyuker
-* [Why didn't you find that bug?](http://www.ministryoftesting.com/2014/07/didnt-find-bug/) - Stephen Blower
 * [The Blazingly Simple Guide To Web Testing](http://thesocialtester.co.uk/wp-content/uploads/2013/12/The-Blazingly-Simple-Guide-To-Web-Testing.pdf)
 * [Using Heuristic Test Oracles By Michael Kelly](http://www.testingeducation.org/BBST/foundations/Kelly_UsingTestOracles.pdf)
-* [Lessons Learned in Software Testing: A Context-Driven Approach](http://books.google.co.uk/books?id=n88imf9m25kC)[Cem Kaner, James Bach, Bret Pettichord]
+* [Lessons Learned in Software Testing: A Context-Driven Approach](http://books.google.co.uk/books?id=n88imf9m25kC) - Cem Kaner, James Bach, Bret Pettichord
+* [The Oracle Problem and the Teaching of Software Testing](kaner.com/?p=190) - Cem Kaner
+* [Testing Without a Map](http://www.developsense.com/articles/2005-01-TestingWithoutAMap.pdf) - Michael Bolton
+
+
+## Blog Posts ##
+* [The Ten Worst Testing Tips I Ever Gave](http://www.ministryoftesting.com/2014/10/ten-worst-testing-advices-gave/) - Jan Jaap Cannegieter, Steven van Voorst
+* [Why didn't you find that bug?](http://www.ministryoftesting.com/2014/07/didnt-find-bug/) - Stephen Blower
+* [FEW HICCUPS](www.developsense.com/blog/2012/07/few-hiccupps/) - Michael Bolton
 
 ## Testers/Groups Worth Following
 
