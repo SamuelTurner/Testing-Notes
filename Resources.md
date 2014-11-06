@@ -24,6 +24,7 @@ This is my list sources of information, I've not fully explored all of these sou
 * [The Ten Worst Testing Tips I Ever Gave](http://www.ministryoftesting.com/2014/10/ten-worst-testing-advices-gave/) - Jan Jaap Cannegieter, Steven van Voorst
 * [Why didn't you find that bug?](http://www.ministryoftesting.com/2014/07/didnt-find-bug/) - Stephen Blower
 * [FEW HICCUPS](www.developsense.com/blog/2012/07/few-hiccupps/) - Michael Bolton
+* [Smoke Testing vs. Sanity Testing](http://www.developsense.com/blog/2011/11/smoke-testing-vs-sanity-testing/) - Michael Bolton
 
 ## Testers/Groups Worth Following
 
